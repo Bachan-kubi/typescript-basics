@@ -1,2 +1,2 @@
 ## Typebasics-Basics 
-Learning typescript basics
+### Learning typescript basics
